@@ -1,1 +1,5 @@
 # JOURNZMINIDESKTOP
+
+
+
+Screen range (900_1200)
