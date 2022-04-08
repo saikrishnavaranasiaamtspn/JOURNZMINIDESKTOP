@@ -2,4 +2,4 @@
 
 
 
-Screen range (900_1200)
+Screen range (850_1200)
